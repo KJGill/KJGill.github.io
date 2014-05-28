@@ -17,20 +17,21 @@ body {
 
 h1 {
 	font: small-caps underline 2.5em 'Francois One', sans-serif; 
-	color: #f06666;
+	color: #800000;
 	border-radius: 30px;
-	border-style: bold;
-	border-color: #fff;
+	border-style: solid;
+	border-color: #000;
 	border-top: 30px;
 	border-bottom: 30px; 
-	border-right : 30px;
-	border-left: 30px;
+	border-right : 0px;
+	border-left: 0px;
 	font-size: 3.5em; 
 	text-align: center;
 	text-shadow: 3px;
 	padding: 20px; 
 	margin-right: auto;
 	margin-left: auto; 
+	 
 
 /*	border: 1px;
 	border-style: bold;
@@ -38,19 +39,22 @@ h1 {
 */
 }
 
-,img {
+.img {
 
-	padding: 50px;
-	height: 400px;
-	width: 700px;
+	padding: 30px;
+	height: 300px;
+	width: 600px;
 
 }
 
-.pic img 
+.pic  
 
-{	border: 15px solid #000;
+{	
 	margin-right: auto;
 	margin-left: auto; 
+	display: auto; 
+	text-align: center; 
+	display: center; 
 }
 
 nav {
@@ -82,14 +86,9 @@ a {
 /* paragraph */
 
 p { 
-	color: #f06666;
+	color: #800000;
 	text-shadow: 5px solid #fff;
 }
-
-
-
-/* Menu bar */
-
 
 
 /* Body */
@@ -97,10 +96,9 @@ p {
 
 
 	font: 1.5em 'Lora', serif;
-	color: #f06666;
+	color: #800000;
 	text-align: center;
-	text-shadow: 2px;
-	text-align: justify;
+	
 }
 
 ul {
@@ -114,16 +112,23 @@ ul {
 p {
 
 	text-align: center;
+	background-color: #808080;
 
 }
 /* footer */
 
 footer {
-	color: #f06666;
+	color: #800000;
 	text-align: center;
 }
 
 a {
 border: none;
 
+}
+
+.portpics {
+
+	margin-right: auto; 
+	margin-left: auto;
 }

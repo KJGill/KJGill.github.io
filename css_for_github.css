@@ -3,7 +3,7 @@
 body {
 
 	background-color: none; 
-	background-image: url('blueprint.jpg');
+	background-image: url("blueprint.jpg");
 	background-image: fixed; 
 	background-repeat: no-repeat; 
 	background-size: 100% 100%; 

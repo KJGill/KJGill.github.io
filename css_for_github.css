@@ -16,8 +16,7 @@ body {
 }
 
 h1 {
-	font: small-caps underline 2.5em 'Francois One', sans-serif; 
-	color: #800000;
+	color: #000000;
 	border-radius: 30px;
 	border-style: solid;
 	border-color: #000;
@@ -94,8 +93,6 @@ p {
 /* Body */
 .intro {
 
-
-	font: 1.5em 'Lora', serif;
 	color: #800000;
 	text-align: center;
 	
